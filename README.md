@@ -5,7 +5,7 @@
 ![GitHub](https://badges.aleen42.com/src/github.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
-![VisualCode](https://badges.aleen42.com/src/visu
+![VisualCode](https://badges.aleen42.com/src/visual_studio_code.svg)
 ![Commit Status](https://img.shields.io/github/commit-status/rhichyllie/Senai_UC8_controle_deAlunos/main/7a7e98a29af44e5a6cb83b4f675cd00b4438b739?color=%2300FFDA&style=plastic)
 
 </div>
