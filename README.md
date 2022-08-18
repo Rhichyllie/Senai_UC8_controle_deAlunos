@@ -29,18 +29,18 @@ Criação de um sistema de controle de alunos de uma escola, considerando a quan
 
 * Node.js 16.16.0 LTS
 
-* Visual Studio Code Version 1.70
+* Visual Studio Code Version 1.70.0
 
 ## Acesso ao Projeto
-Para acessar o projeto instalar, você precisar instalar o Node.js: https://nodejs.org/en/
+- Para acessar o projeto instalar, você precisar instalar o Node.js: https://nodejs.org/en/
 
-Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
+- Ter acesso ao Visual Studio Code com a extensão Shell instalada, aqui tem um guia de como fazer esta parte: https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/
 
-Na sua terminal, utilize a sequência de comandos:
+- Na sua terminal, utilize a sequência de comandos:
 
 ```
 $ git clone https://github.com/Rhichyllie/Senai_UC8_controle_deAlunos.git
-$ cd Senai_UC8_atividade
+$ cd Senai_UC8_controle_deAlunos
 $ code .
 $ node controle_deAlunos.js
 ```
