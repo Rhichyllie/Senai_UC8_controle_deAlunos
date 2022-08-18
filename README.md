@@ -1,9 +1,11 @@
 <h1 align="center"> Senai UC8 Controle de Alunos </h1>
 
+[<h1 align="center">
 ![GitHub](https://badges.aleen42.com/src/github.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
 ![VisualCode](https://badges.aleen42.com/src/visual_studio_code.svg)
+</h1>]
 
 ## Índice
 * [Descrição do projeto](#descricao-do-projeto)
