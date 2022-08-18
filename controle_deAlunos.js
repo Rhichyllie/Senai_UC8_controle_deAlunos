@@ -3,7 +3,6 @@ let listaAlunos = ["Antonella", "Bruno", "Carlos", "Elisangela", "Josiane", "Kar
 for (let i = 0; i < listaAlunos.length; i++) {
     if (i == 0) {
         console.log(`Posição [${i}]: ${listaAlunos[i]} = Zero localizado!`)
-
     } else if (i % 2 != 0) {
         console.log(`Posição [${i}]: ${listaAlunos[i]} = Número ímpar localizado!`)
     } else {
