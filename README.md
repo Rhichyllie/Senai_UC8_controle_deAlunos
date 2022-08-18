@@ -1,4 +1,4 @@
-# Senai UC8 Controle de Alunos
+<h1 align="center"> Senai UC8 Controle de Alunos </h1>
 
 ![GitHub](https://badges.aleen42.com/src/github.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
